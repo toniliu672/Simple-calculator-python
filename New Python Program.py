@@ -197,9 +197,9 @@ Tambahan :
         harga_tambahan()
 
         print("""
-    ----------------------------------------)
-    Penginapan Dahlia
-    ----------------------------------------""")
+----------------------------------------)
+Penginapan Dahlia
+----------------------------------------""")
         print(f"""
 Tipe Kamar : {listnama}
 Harga Kamar    : {locale.currency(harga, grouping=True)}
